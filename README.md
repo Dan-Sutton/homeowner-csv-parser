@@ -24,7 +24,7 @@ The Homeowner Names CSV Uploader is a web application that allows users to uploa
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/homeowner-names-uploader.git
+    git clone https://github.com/Dan-Sutton/homeowner-csv-parser.git
     cd homeowner-names-uploader
     ```
 
